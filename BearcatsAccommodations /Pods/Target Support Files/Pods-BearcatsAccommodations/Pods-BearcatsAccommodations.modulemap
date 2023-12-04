@@ -1,0 +1,6 @@
+framework module Pods_BearcatsAccommodations {
+  umbrella header "Pods-BearcatsAccommodations-umbrella.h"
+
+  export *
+  module * { export * }
+}

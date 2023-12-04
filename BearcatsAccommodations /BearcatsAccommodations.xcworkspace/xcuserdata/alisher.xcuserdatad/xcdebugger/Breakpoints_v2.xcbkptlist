@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4464FE9F-206E-4FAE-9446-37E5B150D35F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C306B0F-973C-4806-9895-6F68094D2D8B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BearcatsAccommodations/SendVoiceMessageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "253"
+            endingLineNumber = "253"
+            landmarkName = "uploadAudio()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C306B0F-973C-4806-9895-6F68094D2D8B - ece2b71885fb33c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BearcatsAccommodations.SendVoiceMessageVC.sendBtnClicked(Any) -&gt; ()"
+                  moduleName = "BearcatsAccommodations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisher/Desktop/Ali%20Sher/UniversityProjects/Oct%202023/Projects/BearcatsAccommodations/BearcatsAccommodations/SendVoiceMessageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "1C306B0F-973C-4806-9895-6F68094D2D8B - 3f07cf1a930199d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BearcatsAccommodations.SendVoiceMessageVC.uploadAudio() -&gt; ()"
+                  moduleName = "BearcatsAccommodations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisher/Desktop/Ali%20Sher/UniversityProjects/Oct%202023/Projects/BearcatsAccommodations/BearcatsAccommodations/SendVoiceMessageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "1C306B0F-973C-4806-9895-6F68094D2D8B - 3f07cf1a930199d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BearcatsAccommodations.SendVoiceMessageVC.uploadAudio() -&gt; ()"
+                  moduleName = "BearcatsAccommodations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisher/Desktop/Ali%20Sher/UniversityProjects/Oct%202023/Projects/BearcatsAccommodations/BearcatsAccommodations/SendVoiceMessageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "1C306B0F-973C-4806-9895-6F68094D2D8B - 3f07cf1a930199d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BearcatsAccommodations.SendVoiceMessageVC.uploadAudio() -&gt; ()"
+                  moduleName = "BearcatsAccommodations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisher/Desktop/Ali%20Sher/UniversityProjects/Oct%202023/Projects/BearcatsAccommodations/BearcatsAccommodations/SendVoiceMessageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "1C306B0F-973C-4806-9895-6F68094D2D8B - 913b1c346fa32c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BearcatsAccommodations.SendVoiceMessageVC.uploadAudio() -&gt; ()"
+                  moduleName = "BearcatsAccommodations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisher/Downloads/Projects%202/BearcatsAccommodations/BearcatsAccommodations/SendVoiceMessageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "1C306B0F-973C-4806-9895-6F68094D2D8B - 913b1c346fa3226"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BearcatsAccommodations.SendVoiceMessageVC.uploadAudio() -&gt; ()"
+                  moduleName = "BearcatsAccommodations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisher/Downloads/Projects%202/BearcatsAccommodations/BearcatsAccommodations/SendVoiceMessageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "253"
+                  endingLineNumber = "253"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
